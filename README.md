@@ -1,6 +1,9 @@
-# Hi, I'm Jorge  Delgado
+<div align="center">
+  <h1 style="color: #FF5733; font-family: 'Press Start 2P', cursive; font-size: 48px;">
+    Jorge Delgado Alvarez Malo
+  </h1>
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)]([https://github.com/your-username](https://github.com/Jorgedelgadomalo))
 
 
 🚀 Tech Enthusiast | 🎓 MSc in Business Analytics and Big Data Candidate | 🎮 Aspiring Gaming Industry
