@@ -32,6 +32,16 @@ I'm a previous managment/sales transitioning from a background in retail and agr
 
 I am passionate about merging my technical skills with my love for the gaming industry. My goal is to work on projects that bridge the gap between gaming, data analytics, and technology. From developing data-driven gaming experiences to contributing to the tech side of gaming platforms, I'm excited to bring my unique perspective to this dynamic field.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-delgado-alvarez-malo-1342b3193/). Let's collaborate and create exciting tech-driven solutions!
+Feel free to connect with me. Let's collaborate and create exciting tech-driven solutions!
 
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+## Contact Me
+
+<p>
+  <a href="https://www.linkedin.com/in/jorge-delgado-alvarez-malo-1342b3193/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jorgedelgadoam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
