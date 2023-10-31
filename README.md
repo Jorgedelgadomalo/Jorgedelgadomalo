@@ -1,6 +1,7 @@
-<div align="center" style="background-image: url('https://www.leetdesk.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fleetdesk%2F37888785-fa43-4243-ae48-2a9ca2f35ff0_atmosphaerisches-gamer-zimmer.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75'); background-size: 100px 100px; background-repeat: no-repeat; background-position: top left;">
-  <h1 style="font-size: 48px; color: #FF5733;">Jorge Delgado Alvarez Malo</h1>
+<div align="center" style="background-image: url('https://www.leetdesk.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fleetdesk%2F37888785-fa43-4243-ae48-2a9ca2f35ff0_atmosphaerisches-gamer-zimmer.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75'), url('https://imageio.forbes.com/specials-images/imageserve/61d52d4e3a76ed81ac034ea8/The-10-Tech-Trends-That-Will-Transform-Our-World/960x0.jpg?format=jpg&width=1440'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 400px; color: white; text-align: center;">
+  <h1 style="font-size: 48px;">Jorge Delgado</h1>
 </div>
+
 
 
 🚀 Tech Enthusiast | 🎓 MSc in Business Analytics and Big Data Candidate | 🎮 Aspiring Gaming Industry
