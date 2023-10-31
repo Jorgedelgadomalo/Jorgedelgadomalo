@@ -11,14 +11,18 @@ I'm a previous managment/sales transitioning from a background in retail and agr
 
 ## Skills
 
-- **Programming Languages:** Python
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Tableau
-- **Big Data Tools:** Hadoop, Spark
-- **Machine Learning:** Scikit-Learn
-- **Database Management:** SQL, MongoDB
-- **Version Control:** Git, GitHub
-- **DevOps & Cloud:** AWS
-- **Agile Methodologies:** Scrum
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/LookerStudio-00A1E0?style=for-the-badge&logo=looker&logoColor=white" alt="LookerStudio">
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics">
+</p>
 
 ## Certifications
 
