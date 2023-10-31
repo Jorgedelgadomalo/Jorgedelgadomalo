@@ -1,10 +1,8 @@
 <div align="center">
-  <h1 style="color: #FF5733; font-family: 'Press Start 2P', cursive; font-size: 48px;">
-    Jorge Delgado Alvarez Malo
-  </h1>
+  <h1 style="font-size: 48px; color: #FF5733;">Hi, I'm [Your Name]</h1>
+  <img src="gaming-icon.png" width="100" height="100" alt="Gaming Icon">
+  <img src="tech-icon.png" width="100" height="100" alt="Tech Icon">
 </div>
-
-
 
 🚀 Tech Enthusiast | 🎓 MSc in Business Analytics and Big Data Candidate | 🎮 Aspiring Gaming Industry
 
