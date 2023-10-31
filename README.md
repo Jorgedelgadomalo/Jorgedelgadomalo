@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 style="font-size: 48px; color: #FF5733;">Hi, I'm [Your Name]</h1>
-  <img src="gaming-icon.png" width="100" height="100" alt="Gaming Icon">
-  <img src="tech-icon.png" width="100" height="100" alt="Tech Icon">
+  <h1 style="font-size: 48px; color: #FF5733;">Hi, Jorge Delgado Alvarez Malo</h1>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.leetdesk.com%2Fblog%2Fgaming-room&psig=AOvVaw1sd5MD5Haw-o-u8Wu4CE6L&ust=1698854506708000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICA6K3UoIIDFQAAAAAdAAAAABAE" width="100" height="100">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbernardmarr%2F2022%2F01%2F05%2Fthe-10-tech-trends-that-will-transform-our-world%2F&psig=AOvVaw1fE4PHvgD8g1mPLG9X9gaa&ust=1698854534193000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLD75rrUoIIDFQAAAAAdAAAAABAE" width="100" height="100">
 </div>
 
 🚀 Tech Enthusiast | 🎓 MSc in Business Analytics and Big Data Candidate | 🎮 Aspiring Gaming Industry
