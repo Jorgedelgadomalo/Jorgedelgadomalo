@@ -1,8 +1,7 @@
-<div align="center">
+<div align="center" style="background-image: url('https://www.leetdesk.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fleetdesk%2F37888785-fa43-4243-ae48-2a9ca2f35ff0_atmosphaerisches-gamer-zimmer.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75'); background-size: 100px 100px; background-repeat: no-repeat; background-position: top left;">
   <h1 style="font-size: 48px; color: #FF5733;">Jorge Delgado Alvarez Malo</h1>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.leetdesk.com%2Fblog%2Fgaming-room&psig=AOvVaw1sd5MD5Haw-o-u8Wu4CE6L&ust=1698854506708000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICA6K3UoIIDFQAAAAAdAAAAABAE" width="500" height="500" alt="Gaming Icon">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbernardmarr%2F2022%2F01%2F05%2Fthe-10-tech-trends-that-will-transform-our-world%2F&psig=AOvVaw1fE4PHvgD8g1mPLG9X9gaa&ust=1698854534193000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLD75rrUoIIDFQAAAAAdAAAAABAE" width="100" height="100" alt="Tech Icon">
 </div>
+
 
 🚀 Tech Enthusiast | 🎓 MSc in Business Analytics and Big Data Candidate | 🎮 Aspiring Gaming Industry
 
